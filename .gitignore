@@ -8,3 +8,6 @@ scripts/contributors.js
 *.rsuser
 *.suo
 *.user
+*.userosscache
+*.sln.docstates
+*.swp
